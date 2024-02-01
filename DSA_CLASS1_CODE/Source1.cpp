@@ -1,4 +1,4 @@
-
+//code-size of an array
 #include <iostream>   //This line includes the input/output stream library, which allows for input and output operations.
 using namespace std;  //This line declares that we will be using the "std" namespace, which includes standard C++ functions and objects.
 int main()            //This is the main function, where the program execution begins.
